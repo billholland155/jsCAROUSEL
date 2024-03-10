@@ -1,0 +1,10 @@
+body {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  font-family: "Satoshi", sans-serif;
+  font-size: var(--lx-text-01);
+  font-weight: 500;
+  color: #ffffe6;
+  background-color: #10100e;
+}
