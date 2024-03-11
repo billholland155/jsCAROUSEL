@@ -8,3 +8,11 @@ body {
   color: #ffffe6;
   background-color: #10100e;
 }
+
+.carousel-container {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--lx-gap);
