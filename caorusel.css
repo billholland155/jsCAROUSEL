@@ -16,3 +16,9 @@ body {
   display: flex;
   flex-direction: column;
   gap: var(--lx-gap);
+
+  .carousel {
+    aspect-ratio: 16/9;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
