@@ -36,3 +36,14 @@ body {
         object-fit: cover;
         object-position: center;
       }
+
+          .caption {
+        width: 100%;
+        padding: var(--lx-space-01);
+        position: absolute;
+        bottom: 0;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 12px;
+        background-color: rgba(0, 0, 0, 0.5);
+      }
