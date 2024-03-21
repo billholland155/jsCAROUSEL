@@ -79,3 +79,11 @@ body {
       transform: translateY(-50%) scale(0.96);
     }
   }
+
+.prev {
+    left: -5%;
+  }
+
+  .next {
+    right: -5%;
+  }
