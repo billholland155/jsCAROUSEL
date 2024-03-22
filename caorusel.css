@@ -87,3 +87,9 @@ body {
   .next {
     right: -5%;
   }
+
+    .dots {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
