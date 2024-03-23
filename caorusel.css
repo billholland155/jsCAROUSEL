@@ -93,3 +93,10 @@ body {
     align-items: center;
     justify-content: center;
     gap: 10px;
+
+      .dot {
+      cursor: pointer;
+      height: 10px;
+      width: 10px;
+      background-color: #242421;
+      transition: background-color 0.2s ease;
