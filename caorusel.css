@@ -100,3 +100,11 @@ body {
       width: 10px;
       background-color: #242421;
       transition: background-color 0.2s ease;
+
+            &.active,
+      &:hover {
+        background-color: #ffffe6;
+      }
+    }
+  }
+}
